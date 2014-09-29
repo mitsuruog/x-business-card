@@ -1,4 +1,5 @@
 # エンタープライヤーのためのWeb Components Study
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mitsuruog/x-mitsuruog?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ~Web ComponentsでWeb名刺を作ろう！~
 
 ## はじめに
